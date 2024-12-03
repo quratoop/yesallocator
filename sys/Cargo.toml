@@ -1,6 +1,7 @@
 [package]
 build = "build.rs"
 name = "yesallocator-sys"
+description = "yesallocator connection to the c backend"
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
