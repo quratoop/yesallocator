@@ -1,0 +1,13 @@
+# file endings
+*.a
+*.o
+*.so
+*.dll
+*.rlib
+*.dylib
+*.lock
+
+# ordner
+.cargo
+target
+vendor
